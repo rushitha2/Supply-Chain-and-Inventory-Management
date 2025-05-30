@@ -1,10 +1,10 @@
-Background:
+#Background:
 
 ABC Supermarket is a retail chain with multiple stores across different cities. The company has been struggling with stock imbalances—some products run out too quickly (stockouts), while others remain unsold for months (overstocking). These inefficiencies are increasing costs and reducing profits.
 
 The management has decided to use data-driven insights to optimize their inventory and supply chain operations.
 
-Problem Statement:
+##Problem Statement:
 
 ABC Supermarket wants to improve its inventory management by:
 
